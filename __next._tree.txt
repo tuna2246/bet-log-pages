@@ -1,2 +1,2 @@
-:HL["/bet-log-pages/_next/static/chunks/0n4o53jcx2tf1.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ppXl3TYA9NV_5zv3FvtI5"}
+:HL["/bet-log-pages/_next/static/chunks/0ssrp7xwsqq9d.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"mu0bJSUuc2w2ulwszcxrE"}
