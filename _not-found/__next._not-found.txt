@@ -2,4 +2,4 @@
 2:I[28270,["/bet-log-pages/_next/static/chunks/0os4r2b_q-rny.js"],"default"]
 3:I[7640,["/bet-log-pages/_next/static/chunks/0os4r2b_q-rny.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"HuaCMIUWK18Yj66tgg3Jk"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"rd4A0BD_krjA5xQ39pwg3"}
